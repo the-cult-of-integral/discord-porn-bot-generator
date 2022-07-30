@@ -1,6 +1,8 @@
 # Discord Porn Bot Generator
 Create fully functional rule34-based porn bots in seconds...
 
+![image](https://user-images.githubusercontent.com/98130822/181919183-ce566ee6-7b21-4707-af07-d8e431816e4d.PNG)
+
 ---
 
 DPBG allows you to create fully functional discord porn bots in seconds, including configuration settings that allow you to toggle each command and whether to only post to NSFW channels.

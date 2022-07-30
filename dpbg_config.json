@@ -1,8 +1,8 @@
 {
-	"VERBOSE": true,
+	"VERBOSE": false,
 	
-    "SETTINGS_PATH": "settings.json",
-    "SETTINGS_RUN_DEF_DICT": true,
+    "SETTINGS_PATH": "generation_settings.json",
+    "SETTINGS_RUN_DEF_DICT": false,
     "SETTINGS_DEF_DICT": {
         "database_name": "database.db",
         "prefix": "$",
